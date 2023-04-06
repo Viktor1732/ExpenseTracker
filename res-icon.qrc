@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/add_box_white_24dp.svg</file>
+    <file>icons/call_made_white_24dp.svg</file>
+    <file>icons/call_received_white_24dp.svg</file>
+    <file>icons/delete_white_24dp.svg</file>
+    <file>icons/directions_car_white_24dp.svg</file>
+    <file>icons/edit_white_24dp.svg</file>
+    <file>icons/shopping_cart_white_24dp.svg</file>
+    <file>icons/sports_esports_white_24dp.svg</file>
+    <file>icons/web_stories_white_24dp.svg</file>
+  </qresource>
+</RCC>
